@@ -1,2 +1,3 @@
-# rust-cli-boilerplate
-Build rust cli app with Clap!
+# Rust cli boilerplate.
+
+Contains [clap](https://clap.rs/) for arguments parsing and nothing else.
