@@ -3,6 +3,8 @@ name = "{{project-name}}"
 version = "0.1.0"
 authors = ["{{authors}}"]
 edition = "2018"
+license-file = "LICENSE-MIT.md"
+readme = "README.md"
 
 [dependencies]
 clap = "2.33.0"
