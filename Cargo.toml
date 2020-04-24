@@ -8,3 +8,8 @@ readme = "README.md"
 
 [dependencies]
 clap = "2.33.0"
+
+[profile.release]
+opt-level = 'z'
+lto = true
+panic = 'abort'
